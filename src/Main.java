@@ -1,14 +1,6 @@
-class Subtractor {
-    public subtract(int a, int b) {
-        return a - b;
-    }
-}
+// TODO: we need to add the missing classes!
 
-class Adder {
-    public add(int a, int b) {
-        return a + b;
-    }
-}
+// OK, I will add 'Adder' and s31391 will add 'Subtractor'.
 
 public class Main {
     public static void main(String[] args) {
